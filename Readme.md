@@ -56,7 +56,7 @@ This project was built as part of a Backend Assignment using **Next.js API route
 
 ### Installation
 ```bash
-git clone [Your Repository URL]
+git clone https://github.com/himanshu1081/cvnt
 cd cvnt
 npm install
 # or
